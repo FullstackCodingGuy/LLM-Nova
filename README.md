@@ -21,3 +21,6 @@ To test the model
 ```
 ollama run Nova
 ```
+
+Result:
+<img width="777" alt="image" src="https://github.com/user-attachments/assets/8da7a49b-e697-4899-856f-8e94fcdac198" />
